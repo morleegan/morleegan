@@ -3,7 +3,9 @@
 My name is Morgan, welcome to my github home.
 - 😄 Pronouns: she/her/hers
 
-I am currently working at [Cameo](https://www.cameo.com) as a senior software engineer focusing on UI/UX for the celebrity side of the platform.
+Software Developer interested in React, React Native, UI/UX, and general product work.
+
+I am currently looking for my next opportunity, send me an email if you are interested in working with me. Ex-[Cameo](https://www.cameo.com).
 
 In my free time, I love to travel 🛩, oil paint 🎨, and work on creative coding projects.
 
