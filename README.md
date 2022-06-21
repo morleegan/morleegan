@@ -5,7 +5,7 @@ My name is Morgan, welcome to my github home.
 
 Software Developer interested in React, React Native, UI/UX, and general product work.
 
-I am currently looking for my next opportunity, send me an email if you are interested in working with me. Ex-[Cameo](https://www.cameo.com).
+I am currently working at [Raya](https://www.rayatheapp.com). Ex-[Cameo](https://www.cameo.com).
 
 In my free time, I love to travel 🛩, oil paint 🎨, and work on creative coding projects.
 
