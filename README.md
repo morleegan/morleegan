@@ -3,9 +3,9 @@
 My name is Morgan, welcome to my github home.
 - 😄 Pronouns: she/her/hers
 
-Software Developer interested in React, React Native, UI/UX, and general product work.
+Senior Software Developer who works on various front, backend, and devops projects ranging from React, React Native, and AWS Infrastructure.
 
-I am currently working at [Raya](https://www.rayatheapp.com). Ex-[Cameo](https://www.cameo.com).
+I am currently working at [Raya](https://www.rayatheapp.com) on the [Places App](https://placestheapp.com). Ex-[Cameo](https://www.cameo.com).
 
 In my free time, I love to travel 🛩, oil paint 🎨, and work on creative coding projects.
 
